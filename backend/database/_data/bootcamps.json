@@ -1,0 +1,29 @@
+[
+    {
+    "name" : "PHP Intermediate Level",
+    "website" : "http://laravel.com/capms",
+    "phone" : "(111) - 11111",
+    "description" : "Bootcamp for PHP learning",
+    "user_id": 1,
+    "average_rating" : 4.5,
+    "average_cost" : 800
+},
+{
+    "name" : "Phyton Intermediate Level",
+    "website" : "http://phytonlearning.com/capms",
+    "phone" : "(222) - 22222",
+    "description" : "Bootcamp for Phyton learning",
+    "user_id": 1,
+    "average_rating" : 4.5,
+    "average_cost" : 1000
+},
+{
+    "name" : "Java Intermediate Level",
+    "website" : "http://javalearning.com/capms",
+    "phone" : "(333) - 33333",
+    "description" : "Bootcamp for Java learning",
+    "user_id": 1,
+    "average_rating" : 4.5,
+    "average_cost" : 3000
+}
+]
