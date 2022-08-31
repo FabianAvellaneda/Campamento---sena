@@ -17,7 +17,7 @@ class BootcampSeeder extends Seeder
     public function run()
     {
         //1 truncar la tabla boorcamps
-        //Bootcamp::truncate();
+        //hBootcamp::truncate();
         //2. leer el archivo bootcamps.json
         $json = File::get("database/_data/bootcamps.json");
         //2.1 convertir el contenido json a array
