@@ -1,0 +1,26 @@
+[
+    {
+    "title" : "PHP Intermediate Level",
+    "description" : "Bootcamp for PHP learning",
+    "weeks" : "30",
+    "enroll_cost" : "100.000",
+    "minimum_skill" : "Beginner",
+    "bootcamps_id": 4
+},
+{
+    "title" : "Phyton Intermediate Level",
+    "description" : "Bootcamp for PHP learning",
+    "weeks" : "23",
+    "enroll_cost" : "350.000",
+    "minimum_skill" : "intermediate",
+    "bootcamps_id": 2
+},
+{
+    "title" : "Java Intermediate Level",
+    "description" : "Bootcamp for PHP learning",
+    "weeks" : "12",
+    "enroll_cost" : "430.000",
+    "minimum_skill" : "Advandced",
+    "bootcamps_id": 3
+}
+]
